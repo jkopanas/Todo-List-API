@@ -3,10 +3,10 @@ error_reporting(0);
 class Database
 {
     // DB Params
-    private $host = 'xxx';
-    private $db_name = 'xxx';
-    private $username = 'xxx';
-    private $password = 'xxx';
+    private $host = 'j6mz.your-database.de';
+    private $db_name = 'kabama_db1';
+    private $username = 'kabama_1';
+    private $password = 'FbvpPsmR3StjWi1X';
     private $conn;
 
     // DB Connect
